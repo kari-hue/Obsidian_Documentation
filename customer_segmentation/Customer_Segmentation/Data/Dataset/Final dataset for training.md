@@ -1,0 +1,13 @@
+* CustomerID - It is simply the ID of all the unique users in our dataset. It is unique.
+- Last purchase date: It is the recency, that says how many days ago a customer purchased from the store.
+- Total transaction: It is the total number of transactions made by the customers
+- Total spend: What is the total amount spent by the customers
+- diverse product number: It counts alI the unique type of product brought by the customer
+- Avergae_days_between_purchase : This column contains the average days between the purchase by each of the customer
+- Day_of_week : This column contains the day of the week in which the particular buys the most number of product
+- Hour: This column contains the hour in which the customer is likely to buy
+- Cancelled_products: This column has the total number of the canceled product for the user
+- is_uk: This column is a flag for either or not the customer is from UK or not. 1 says yes and 0 says no.
+- Monthly_spending_mean:This column has the mean amount spent by the customer
+- Monthly_spending_std: This column contains the mean of monthly spending std for each of the customers.
+- Spending_trend : This column contains the spending trend either positive and negative for each of the customer
